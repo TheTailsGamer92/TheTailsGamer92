@@ -20,4 +20,4 @@ I'm a random guy who likes video games, creating mods, and watching TV series. I
 
 
 ### Mods:
-<img src="https://mods.sm64coopdx.com/attachments/noob-jpg.6831/" width="320" height="180"> <img src="https://mods.sm64coopdx.com/attachments/doraemon-jpg.7722/" width="320" height="180"> <img src="https://mods.sm64coopdx.com/attachments/goose-2-0-jpg.7593/" width="320" height="180">
+<img src="https://mods.sm64coopdx.com/attachments/noob-jpg.6831/" width="320" height="180"> <img src="https://mods.sm64coopdx.com/attachments/doraemon-jpg.7722/" width="320" height="180"> <img src="https://mods.sm64coopdx.com/attachments/goose-2-0-jpg.7593/" width="320" height="180"> <img src="https://mods.sm64coopdx.com/attachments/bomberman-v2-jpg.7875/" width="320" height="180">
