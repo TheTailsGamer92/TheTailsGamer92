@@ -7,7 +7,7 @@ A Coop DX Modder
 I'm a random guy who likes video games, creating mods, and watching TV series. I've learned about Blender and a little bit of Lua
 
 * 🌍  I'm based in Colombia
-* 🚀  I'm currently working on [Character Select Mods For Coop DX](http://mods.sm64coopdx.com)
+* 🚀  I'm currently working on [Character Select Mods For Coop DX](https://mods.sm64coopdx.com/mods/categories/character-select.14/)
 * 🧠  I'm currently learning to create 3D models in the N64 style
 
 <p align="left">
